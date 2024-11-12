@@ -8,8 +8,8 @@ public class Calculator {
     /**
      * Adds two numbers.
      * 
-     * @param a the first number
-     * @param b the second number
+     * @param ajay the first number
+     * @param bijay the second number
      * @return the sum of a and b
      */
     public double add(double a, double b) {
@@ -54,4 +54,3 @@ public class Calculator {
         return a / b;
     }
 }
-s
