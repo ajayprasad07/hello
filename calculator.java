@@ -9,7 +9,7 @@ public class Calculator {
      * Adds two numbers.
      * 
      * @param hehe the first number
-     * @param  he second number
+     * @param  he the second number
      * @return the sum of a and b
      */
     public double add(double a, double b) {
